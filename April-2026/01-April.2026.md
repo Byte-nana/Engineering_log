@@ -1,0 +1,29 @@
+# Daily Dev Log – 24th March 2026
+
+## 🧠 Plan for Today
+
+- TypeScript
+  - []Practice OOP: code the noodle machines
+  - []Generic
+  - []Error and exception handling
+  - []Uitlity types
+
+## 🛠 What I Worked On
+
+...
+
+## 💭 Key Learnings
+
+...
+
+## 🧩 Bugs or Blockers
+
+...
+
+## 🚀 Next Steps / Tomorrow
+
+...
+
+## 💡 Reflective
+
+- I feel my life is a bit messy, I need to collect myself. Keep up the daily study log to record your days.
